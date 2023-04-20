@@ -1,0 +1,33 @@
+.boton
+{
+    height: 60px;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 200px;
+    border-radius: 15px;
+}
+
+.textoFijo
+{
+    font-size: 50px;
+    color: white;
+    background-color: black;
+    padding: 5px;
+    border-top-left-radius: 0.5rem; 
+    border-bottom-left-radius: 0.5rem; 
+}
+
+.textoDinamico
+{
+    font-size: 50px;
+    font-weight: bold;
+    color: blue;
+    background-color: black;
+    padding: 5px;
+    border-top-right-radius: 0.5rem; 
+    border-bottom-right-radius: 0.5rem; 
+}
